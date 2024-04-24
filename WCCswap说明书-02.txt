@@ -1,0 +1,6 @@
+WCCswap_files文件夹中的3.ce33dd69.chunk.js.下载文件中的address]=Object(l.getCreate2Address)("0x1B21fFD81B14f8B47c7a9b041a321CAE05BB24fB"或者address]=Object(l.getCreate2Address)("0xb0b670fc1F7724119963018DB0BfA86aDb22d941"为factory。
+address])]),"0x5895c604ed7ca43cadd18f9fec649bd8fce31bab37e1051eeae0c9ed7473b6fb")或者address])]),"0x2ad889f82040abccb2649ea6a874796c1601fb67f91a747a80e08860c73ddf24")为initcode。
+
+main.a1ac82df.chunk.js.下载文件中的0x5B2609A907A4e7357ef2a734295F64e308473e4F或者0x0f1c2D1FDD202768A4bDa7A38EB0377BD58d278E为router。
+
+0x694f139f8a9533c24362889a6a0ff8585c405f0e为WCC或者0x25D2e80cB6B86881Fd7e07dd263Fb79f4AbE033c为MDX
